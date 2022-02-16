@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: df70a6de-0190-1962-8271-a3854c0e8293
 title: Refining the Course
 uid: 0d849887-472d-a3e6-4f24-ed7d4bffb8e4

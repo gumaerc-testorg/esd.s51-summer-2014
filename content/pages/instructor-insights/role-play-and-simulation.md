@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: df70a6de-0190-1962-8271-a3854c0e8293
 title: Role-Play and Simulation
 uid: 004b6f39-6a02-f045-60d4-10be1ab5cc8b

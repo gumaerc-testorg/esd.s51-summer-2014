@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: df70a6de-0190-1962-8271-a3854c0e8293
 ---
@@ -46,28 +48,6 @@ None
 ### Offered
 
 ESD.S51 is typically offered during the summer session.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Office conference room with a large wooden table in the middle of the room.  Fourteen black chairs on wheels arranged around the table. Windows on two walls. Potted small tree in the rear right hand corner of the room.]({{< resource_file 41dafbd6-1a30-2907-26cd-6bf1681b81fb >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Seminar
-    
-    Class sessions were held in a [Cambridge Innovation Center](http://cic.us/) conference room.
-    
-*   ![Maclaurin Buildings (dome and pillars) as viewed from the lawn. Green grass. Five mature trees to the right of the dome and pillars.]({{< resource_file f0ad98d9-6296-5ffd-be0b-6cabb7f12ead >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Role Play
-    
-    Students enacted a role-play scenario in MIT’s Killian Court.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
