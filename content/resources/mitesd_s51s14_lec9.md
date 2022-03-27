@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 526f0bc8-7e12-e0e9-ce71-9a8663b794b8
 resourcetype: Document
 title: '''Smartphone Wars'''
 uid: 586a33dc-3765-eedf-7a5e-9715025c0cb8

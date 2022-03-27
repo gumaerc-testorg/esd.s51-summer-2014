@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: df70a6de-0190-1962-8271-a3854c0e8293
 resourcetype: Image
 title: ESD-S51_classroom-1.jpg
 uid: 41dafbd6-1a30-2907-26cd-6bf1681b81fb

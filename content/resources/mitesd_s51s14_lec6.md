@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 526f0bc8-7e12-e0e9-ce71-9a8663b794b8
 resourcetype: Document
 title: Debrief on Back Bay Battery and preparation for 'Smartphone Wars'
 uid: 88c16fb0-03aa-24b8-a110-434a642ba7ea
