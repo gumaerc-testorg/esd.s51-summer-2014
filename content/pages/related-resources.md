@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to websites that can be used to search news
+  related to LG and Motorola.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

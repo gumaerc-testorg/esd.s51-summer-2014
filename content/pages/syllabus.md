@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course description and information on
+  meeting times, prerequisites, readings, assignments and assessment, and grading
+  policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +48,7 @@ Reading assignments are expected to be done at home after each class.
 Assignments and Assessment
 --------------------------
 
-There are 10 assignments in total, a good mix of in-class assignments, written assignments, as well as in-class presentation. See [Assignments]({{< baseurl >}}/pages/assignments) section for more details.
+There are 10 assignments in total, a good mix of in-class assignments, written assignments, as well as in-class presentation. See {{% resource_link 81a01a7a-b6d0-8799-1585-908c295b17c1 "Assignments" %}} section for more details.
 
 Grading Policy
 --------------

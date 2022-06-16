@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/88c16fb003aa24b8a110434a642ba7ea_MITESD_S51S14_Lec6.pdf
+file: /courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/88c16fb003aa24b8a110434a642ba7ea_MITESD_S51S14_Lec6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Michael Davies shares his insights about engaging students
+  in role-play and simulation exercises as a way to hone their abilities to make strategic
+  decisions in business settings.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
