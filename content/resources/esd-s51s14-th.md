@@ -14,10 +14,10 @@ image_metadata:
   image-alt: A ninja is working at the laptop with a diagram showing a feedback loop
     of "Try, Reflect, and Plan" above the laptop.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-s51s14-th.jpg
 uid: 339007a3-7e30-e1d5-9663-5006600f7477
 ---
 Students learn how to make strategic decision for high-tech businesses under time pressure by role-playing games. The course aims to enable students to create and lead teams of decision-making ninjas. Image courtesy of MIT OpenCourseWare.
-
