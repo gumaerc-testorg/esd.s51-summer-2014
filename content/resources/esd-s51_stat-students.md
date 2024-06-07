@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/58a994070d91cd2ad8fbfc9e7cef41ab_ESD-S51_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
