@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/586a33dc3765eedf7a5e9715025c0cb8_MITESD_S51S14_Lec9.pdf
+file: /courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/586a33dc3765eedf7a5e9715025c0cb8_MITESD_S51S14_Lec9.pdf
 file_size: 93962
 file_type: application/pdf
 learning_resource_types:
