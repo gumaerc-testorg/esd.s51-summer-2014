@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/41dafbd61a30290726cd6bf1681b81fb_ESD-S51_classroom-1.jpg
+file: /courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/41dafbd61a30290726cd6bf1681b81fb_ESD-S51_classroom-1.jpg
 file_size: 22137
 file_type: image/jpeg
 image_metadata:
