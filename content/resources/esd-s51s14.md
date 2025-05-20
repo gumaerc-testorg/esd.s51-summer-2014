@@ -3,7 +3,7 @@ content_type: resource
 description: Students learn how to make strategic decision for high-tech businesses
   under time pressure by role-playing games. The course aims to enable students to
   create and lead teams of decision-making ninjas. Image courtesy of MIT OpenCourseWare.
-file: /ol-ocw-studio-app/courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/cda9645a8ad27c4c775878011a9b583c_esd-s51s14.jpg
+file: /courses/esd-s51-systems-leadership-and-management-praxis-summer-2014/cda9645a8ad27c4c775878011a9b583c_esd-s51s14.jpg
 file_size: 49193
 file_type: image/jpeg
 image_metadata:
