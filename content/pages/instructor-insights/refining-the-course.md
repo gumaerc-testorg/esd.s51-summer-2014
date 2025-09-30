@@ -28,7 +28,7 @@ I adjusted the course in two ways to address this issue. Instead of assuming tha
 Double Loop Learning
 --------------------
 
-The second thing I did was add an additional play session for the Back Bay Battery online simulation. We originally ran it as one session, but students told us they wanted to try the simulation, reflect, and then try it again. In other words, they wanted to engage in what Chris Argyris (1977) calls “[double loop learning](http://hbr.org/1977/09/double-loop-learning-in-organizations).” They wanted to try, fail, ask themselves what they learned, challenge their own mental models, and then try again.
+The second thing I did was add an additional play session for the Back Bay Battery online simulation. We originally ran it as one session, but students told us they wanted to try the simulation, reflect, and then try it again. In other words, they wanted to engage in what Chris Argyris (1977) calls “{{% resource_link "ee2bba6b-4eee-460c-826e-f0920a7992ef" "double loop learning" %}}.” They wanted to try, fail, ask themselves what they learned, challenge their own mental models, and then try again.
 
 I spotlight Argyris’ work because it’s about teaching smart people how to learn. Most smart people don’t think about how they learn. Any MIT graduate student can easily produce output, but I want them to actually confront and challenge their own mental models about a domain with which they are unfamiliar. Incorporating structured opportunities for reflection throughout the course has helped to achieve this goal.
 
