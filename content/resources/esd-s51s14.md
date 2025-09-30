@@ -10,7 +10,8 @@ image_metadata:
   caption: Students learn how to make strategic decision for high-tech businesses
     under time pressure by role-playing games. The course aims to enable students
     to create and lead teams of decision-making ninjas. (Image by MIT OpenCourseWare,
-    based on public domain image of [a ninja at a computer](https://pixabay.com/p-155848/?no_redirect).)
+    based on public domain image of {{% resource_link "9127f47c-252e-4e84-ab38-de7b954b2c68"
+    "a ninja at a computer" %}}.)
   credit: Image by MIT OpenCourseWare, based on public domain image of a ninja at
     a computer.
   image-alt: A ninja is working at the laptop with a diagram showing a feedback loop

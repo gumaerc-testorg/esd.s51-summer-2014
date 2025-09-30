@@ -10,12 +10,12 @@ uid: e216e64f-2b5b-9727-c226-8c22e7d619bf
 
 Websites that can be used to search news related to LG and Motorola for Lecture 8:
 
-[Ars Technica](http://arstechnica.com/)
+{{% resource_link "4e0b70a9-e29c-4eda-812e-71ccb9a1692e" "Ars Technica" %}}
 
-[GigaOm](https://gigaom.com/)
+{{% resource_link "e4a0ee16-7770-477f-ac5b-cc2442159ec1" "GigaOm" %}}
 
-[The Verge](http://www.theverge.com/)
+{{% resource_link "eb60120a-c136-4ae8-873e-32d59300aa7a" "The Verge" %}}
 
-[Engadget](http://www.engadget.com/)
+{{% resource_link "0e2d5584-439d-4a68-8be4-0dfafabb5532" "Engadget" %}}
 
-[TechCrunch](http://techcrunch.com/)
+{{% resource_link "8faac9fa-5ef5-4251-a46b-cacd90b42e9a" "TechCrunch" %}}

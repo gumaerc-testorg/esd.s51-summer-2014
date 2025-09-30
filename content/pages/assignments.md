@@ -14,7 +14,7 @@ You have a number of assignments for the class:
     Part 2 — Read the Nokia case study (see Alcacer, J., T. Khanna, and C. Snively. "The Rise and Fall of Nokia." Harvard Business School Case 714-428, February, 2014), and make a presentation as a team on why Nokia made such poor decisions.
 2.  Debrief team on process for and decision-making in the team exercise and what failure can teach you.
 3.  Read the Ember case (see Henderson, R., and N. Confrey. "Ember Corporation: Developing the Next Ubiquitous Network Standard." Harvard Business School Case 703-448, February 2003), research any information required (including talking to the person if necessary), and write a brief on the perspectives and motivations of a specific member of the Ember leadership team.
-4.  Read the foreground material for the [Backbay online simulation](http://forio.com/simulate/forio/innovation-demo/simulation/index.html#) exercise and what your team's approach to decision-making will be for the onilne exercise.
+4.  Read the foreground material for the {{% resource_link "0c65584a-1e8a-44c0-8153-34f8841c7562" "Backbay online simulation" %}} exercise and what your team's approach to decision-making will be for the onilne exercise.
 5.  Prepare as individuals and a team for the initial preparatory online simulation.
 6.  Write a brief on the perspectives and motivations of a specific member of a high-tech top leadership team, and prepare to play the role.
 7.  As a team, write up your approach to decision-making for the online simulation exercise.
