@@ -67,7 +67,7 @@ Graduate students
 
 ### Breakdown by Major
 
-Mostly students in the {{% resource_link "d895345a-a05a-4421-a577-9d015ae6ba12" "System Design & Management" %}} master’s program
+Mostly students in the [System Design & Management](https://sdm.mit.edu/) master’s program
 
 ### Typical Student Background
 
